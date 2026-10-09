@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-#Copyright MysteryManYT-ttv 2025
+#GPL-3.0 LICENSE Copyright Aiden Rebec MysteryManYT-ttv 2025
 
 #I write these to help me and maybe others
 #This will only work if you have a Fingerprint scanner.
